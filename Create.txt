@@ -1,0 +1,19 @@
+
+---
+
+## 🚀 التشغيل المحلي
+
+### الطريقة 1: فتح مباشر
+
+- افتح `index.html` في المتصفح مباشرة.
+
+### الطريقة 2: Live Server (VS Code)
+
+1. ثبّت إضافة **Live Server**.
+2. انقر بزر الفأرة الأيمن على `index.html`.
+3. اختر **Open with Live Server**.
+
+### الطريقة 3: Python
+
+```bash
+python3 -m http.server 8000
